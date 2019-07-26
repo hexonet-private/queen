@@ -54,3 +54,5 @@ Nothing really matters, anyone can see
 Nothing really matters
 Nothing really matters to me
 Any way the wind blows
+<script>console.log('sydney')</script>
+'<script>console.log('sydney2')</script>'
