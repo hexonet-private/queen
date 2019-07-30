@@ -1,4 +1,4 @@
-[Intro GONE GONE]
+[Intro]
 Is this the real life? Is this just fantasy?
 Caught in a landslide, no escape from reality
 Open your eyes, look up to the skies and see
@@ -54,5 +54,3 @@ Nothing really matters, anyone can see
 Nothing really matters
 Nothing really matters to me
 Any way the wind blows
-<script>console.log('sydney')</script>
-'<script>console.log('sydney2')</script>'
